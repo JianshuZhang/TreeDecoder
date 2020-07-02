@@ -1,6 +1,8 @@
 # TreeDecoder
 
-The source codes will be released very soon~:<br>
+The source codes has been released, but I still need some time to make it clear for those who are not familiar with deep learning and encoder-decoder models:<br>
+
+The data will be released after it is prepared:<br>
 
 * **Tree Decoder**: A Tree-Structured Decoder for Image-to-Markup Generation<br>
 
